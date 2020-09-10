@@ -3,7 +3,18 @@
 
 # Hi there 👋 I'm Anthony Lopez 👨‍💻
 
+
+### Professional experience
+<p> 
+    <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
+    <img src="https://img.shields.io/badge/Back End-Python-f55247"/>
+    <img src="https://img.shields.io/badge/Mobile-Kotlin-f55247"/>
+    <img src="https://img.shields.io/badge/Mobile-Java-f55247"/>
+ </p>
+
 ## [![statsGit](https://github-readme-stats.vercel.app/api?username=anthonylopez15&show_icons=true&theme=dracula)](https://github.com/anthonylopez15)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonylopez15&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/anthonylopez15/)
 [![gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tony.lopez.15@gmail.com)
